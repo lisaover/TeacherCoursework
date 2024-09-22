@@ -1,0 +1,74 @@
+# Base configuration
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+markdown: kramdown
+highlighter: rouge
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Title
+name: Lisa Over
+subtitle: Coursework from my education to be a teacher
+
+# When using this template with a project page set the baseurl to '/project-name'
+# For user/organization pages set this to an empty string
+# When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
+# See http://jekyllrb.com/docs/github-pages/ for more info
+#baseurl: ''
+baseurl: '/TeacherCoursework'
+
+# Author/Organization info to be displayed in the templates
+author:
+  name: Lisa Over
+  url: https://lisaover.com
+
+# Point the logo URL at a file in your repo or hosted elsewhere by your organization
+logourl:
+logoalt:
+
+# Navigation
+# List links that should appear in the site sidebar here
+navigation:
+- text: Home
+  url: ./
+  internal: true
+- text: Algebra
+  url: algebra/
+  internal: true
+- text: Pre-Algebra
+  url: pre_algebra/
+  internal: true
+- text: Geometry
+  url: geometry/
+  internal: true
+- text: Cross-Subject
+  url: cross_subject/
+  internal: true
+- text: Planning
+  url: planning/
+  internal: true
+- text: Documentation
+  url: documentation/
+  internal: true
+- text: Philosophy
+  url: philosophy/
+  internal: true
+#- text: DOCter Repo
+#  url: https://github.com/cfpb/DOCter
+#  internal: false
+
+# Repo list
+# List repos that you would like to appear on the homepage here
+#repos:
+#- name: DOCter
+#  description: Jekyll template for docs
+#  url: https://github.com/cfpb/DOCter
+
+# Style Variables
+brand_color: "#2cb34a"
+
+# Offline caching
+offline_cache: false
+cache_name: DOCter-v1.1
