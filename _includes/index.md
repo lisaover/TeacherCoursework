@@ -1,12 +1,7 @@
-### PA State Teaching Certificate, 7-12 Mathematics
-Robert Morris University, June 2012<br/>
-<a href="https://lisasteaching.github.io/TeacherCoursework/portfolio_teaching/home/PA-certification.pdf" target="_blank">Download</a>
-   
-### Certificate of University Teaching
-Duquesne University, March 2015<br/>
-<a href="https://lisasteaching.github.io/TeacherCoursework/portfolio_teaching/home/DuqUnivTeachingCert.pdf" target="_blank">Download</a><br/>
-
-To earn the Certificate of University Teaching from Duquesne University, I participated in teaching workshops, mentored new TAs, and designed and delivered lessons under formal observation. I was the first student in the Computational Mathematics program to earn this certificate.
+### Teacher Education
+2009 - 2012<br/>
+Robert Morris University<br/>
+Moon Township, PA
 
 ### PRAXIS Scores
 My official PRAXIS scores are on file with the Pennsylvania Department of Education. I will provide copies upon request.
@@ -15,12 +10,3 @@ Mathematics Content Knowledge (0061): 155<br/>
 C-PPST Reading (5710): 184<br/>
 C-PPST Writing (5720): 179<br/>
 C-PPST Mathematics (5730): 188
-
-### References
-<a href="https://lisasteaching.github.io/TeacherCoursework/portfolio_teaching/home/recommendation-kern.pdf" target="_blank">Dr. John Kern, Chair and Associate Professor of Statistics at Duquesne</a>
-
-<a href="https://lisasteaching.github.io/TeacherCoursework/portfolio_teaching/home/recommendation-zimmerman.pdf" target="_blank">Dr. Zimmerman, Professor of Mathematics at Robert Morris</a>
-
-<a href="https://lisasteaching.github.io/TeacherCoursework/portfolio_teaching/home/recommendation-weet.pdf" target="_blank">Mr. Robert Weet, Supervisor of Student Teachers at Robert Morris</a>
-
-<a href="https://lisasteaching.github.io/TeacherCoursework/portfolio_teaching/home/recommendation-duchi.pdf" target="_blank">Mr. Ryan Duchi, Cooperating Teacher Upper St. Clair</a>
